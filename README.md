@@ -5,6 +5,9 @@
 
 NoteRiot is a task taking app that allows you to record your notes via the webbrowser. It will retain your tasks when navigating away from the page and includes all basic note taking funcitonality.
 
+Live Deployment: https://noteriot-737fd22d7ff2.herokuapp.com/notes
+
+![alt text](./screenshot.png)
 
 ## Table of Contents 
 
